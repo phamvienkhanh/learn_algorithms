@@ -1,0 +1,11 @@
+# ninja log v5
+1	1624	1718039460528785166	quadtree/CMakeFiles/learn_alg.dir/main.cpp.o	d08071faf9094cf1
+1624	1770	1718039460672118828	quadtree/learn_alg	28c8ba5ca32d9f4
+1	7	0	clean	a31eedcededa8236
+1	329	1718039438422067743	quadtree/CMakeFiles/learn_alg.dir/__/utils/box2d_debug_draw/box2d_debug.cpp.o	9a1fa1cc378fab34
+1	1697	1718039642392528005	quadtree/CMakeFiles/learn_alg.dir/main.cpp.o	d08071faf9094cf1
+1697	1852	1718039642545861678	quadtree/learn_alg	28c8ba5ca32d9f4
+1	1734	1718039821882481289	quadtree/CMakeFiles/learn_alg.dir/main.cpp.o	d08071faf9094cf1
+1735	1895	1718039822045814254	quadtree/learn_alg	28c8ba5ca32d9f4
+2	1629	1718039932698940280	quadtree/CMakeFiles/learn_alg.dir/main.cpp.o	d08071faf9094cf1
+1629	1777	1718039932848940052	quadtree/learn_alg	28c8ba5ca32d9f4

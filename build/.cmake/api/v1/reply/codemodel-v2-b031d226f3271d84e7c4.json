@@ -1,0 +1,76 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28.1"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "quadtree",
+					"jsonFile" : "directory-quadtree-Debug-2b77e02f4e6d7b49b34a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "quadtree",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "learn_alg",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "learn_alg::@cbc13aaceb13680d93f6",
+					"jsonFile" : "target-learn_alg-Debug-b75f76cfed10e0dea6c4.json",
+					"name" : "learn_alg",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/keith/Workspaces/cpp/learn_algorithms/build",
+		"source" : "/home/keith/Workspaces/cpp/learn_algorithms"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

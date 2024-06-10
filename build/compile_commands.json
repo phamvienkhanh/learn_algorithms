@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/keith/Workspaces/cpp/learn_algorithms/build",
+  "command": "/usr/bin/g++ -isystem /home/keith/Workspaces/cpp/learn_algorithms/3rd/prebuilt/raylib/include -isystem /home/keith/Workspaces/cpp/learn_algorithms/3rd/prebuilt/box2d/include -isystem /home/keith/Workspaces/cpp/learn_algorithms/utils/box2d_debug_draw  -std=c++20 -g -o quadtree/CMakeFiles/learn_alg.dir/main.cpp.o -c /home/keith/Workspaces/cpp/learn_algorithms/quadtree/main.cpp",
+  "file": "/home/keith/Workspaces/cpp/learn_algorithms/quadtree/main.cpp",
+  "output": "quadtree/CMakeFiles/learn_alg.dir/main.cpp.o"
+},
+{
+  "directory": "/home/keith/Workspaces/cpp/learn_algorithms/build",
+  "command": "/usr/bin/g++ -isystem /home/keith/Workspaces/cpp/learn_algorithms/3rd/prebuilt/raylib/include -isystem /home/keith/Workspaces/cpp/learn_algorithms/3rd/prebuilt/box2d/include -isystem /home/keith/Workspaces/cpp/learn_algorithms/utils/box2d_debug_draw  -std=c++20 -g -o quadtree/CMakeFiles/learn_alg.dir/__/utils/box2d_debug_draw/box2d_debug.cpp.o -c /home/keith/Workspaces/cpp/learn_algorithms/utils/box2d_debug_draw/box2d_debug.cpp",
+  "file": "/home/keith/Workspaces/cpp/learn_algorithms/utils/box2d_debug_draw/box2d_debug.cpp",
+  "output": "quadtree/CMakeFiles/learn_alg.dir/__/utils/box2d_debug_draw/box2d_debug.cpp.o"
+}
+]
